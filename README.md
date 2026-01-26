@@ -84,7 +84,6 @@ Q: what is going on with my strings?
 All comments in code are now banned (`# and '''`)
 
 ## 我遇到一個編譯器錯誤 😡🤬😠!!!
-
 In Gyatt, you can specify a file to which python code will compile to by using a positional argument like `gyatt code.gyt argh` (compiled code will be saved in `argh.py`)
 
 ## top dos scariest hoompscahres 😱
