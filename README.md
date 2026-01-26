@@ -1,8 +1,7 @@
-# Gyatt 3
-![A Logo of Gyatt in the style of Python](img/logo.png "A Logo of Gyatt in the style of Python")
+# city boy, city boy
 Gyatt (Gee-yacht) is the Python-based programming language of the future.
 
-## Erm, what the sigma 🤓?
+## erm, what the sigma 🤓?
 Python, traditionally considered "easy" and "intuitive," uses too many archaic words like `print` and `math`. I wanted to fix this and keep Python in line with modern  English.
 
 Gyatt is designed with a focus on readability, speed, and function.
@@ -76,15 +75,15 @@ You can convert any python file to gyatt by running `gyattconvert [python file n
 
 This is **signficantly** diffrent from Gyatt 2, as Gyatt 3 supports automatic aliasing to your bash, zsh, or fish profile
 
-## uwu 😊
+## new restaurant called karma 😊
 
-Q: Erm 🤓, wtf is going on with my strings?
+Q: what is going on with my strings?
 <br>A: In Gyatt 2, a change was made to uwu-ify all strings by default. Ex (`how are you?` -> `h-how awe yoyu?`). Although highly recommended, this feature can be turned off with the `--nouwu` or `-n` command-line arguments.
 
-## [angry comment] 😡
+## angry comment 😡
 All comments in code are now banned (`# and '''`)
 
-## yo tengo une erreur de compiler 😡🤬😠!!!
+## 我遇到一個編譯器錯誤 😡🤬😠!!!
 
 In Gyatt, you can specify a file to which python code will compile to by using a positional argument like `gyatt code.gyt argh` (compiled code will be saved in `argh.py`)
 
@@ -106,9 +105,6 @@ no
 
 ### is there documentation on what changed
 no
-
-## i am a vc; does your product have AI?
-i can put ai in the title for 10m at 100m valuation
 
 ## Future changes (not happening)
 
