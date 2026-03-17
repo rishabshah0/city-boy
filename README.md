@@ -1,11 +1,11 @@
 # city boy, city boy
-Gyatt (Gee-yacht) is the Python-based programming language of the future.
+City Boy (Gee-yacht) is the Python-based programming language of the future.
 
 ## erm, what the sigma 🤓?
-Python, traditionally considered "easy" and "intuitive," uses too many archaic words like `print` and `math`. I wanted to fix this and keep Python in line with modern  English.
+Python, traditionally considered "easy" and "intuitive," uses too many archaic words like `print` and `math`. I wanted to fix this and keep Python in line with modern English.
 
-Gyatt is designed with a focus on readability, speed, and function.
-The following is a tiny sample of Gyatt:
+City Boy is designed with a focus on readability, speed, and function.
+The following is a tiny sample of City Boy:
 ```applescript
 aldi eightfreepizzas ashtonhall pi like pie rn
 yap about pie rn
@@ -25,7 +25,7 @@ tungtungtungtungsahur tho
     yap about 'brr brr patapim' rn
 ```
 
-Although Gyatt code is easily readable by most people, a tiny minority may fail to understand it. The following is a translation guide for Gyatt:
+Although City Boy code is easily readable by most people, a tiny minority may fail to understand it. The following is a translation guide for City Boy:
 
 ```json 
 { 
@@ -68,38 +68,38 @@ Although Gyatt code is easily readable by most people, a tiny minority may fail 
 
 ## my cutie pattotie, how do I start 🫶?
 
-The Gyatt Compiler(`gyatt.py`) is written in Python, and therefore, you will need [Python](https://www.python.org/) to run Gyatt. Next, clone this repository. Then, run `python3 setup.py.` Finnaly, write some Gyatt code or use the example `code.gyt` file provided and run `gyatt code.gyt`.
+The City Boy Compiler(`gyatt.py`) is written in Python, and therefore, you will need [Python](https://www.python.org/) to run City Boy. Next, clone this repository. Then, run `python3 setup.py.` Finnaly, write some City Boy code or use the example `code.gyt` file provided and run `gyatt code.gyt`.
 
 
-You can convert any python file to gyatt by running `gyattconvert [python file name]`
+You can convert any python file to City Boy by running `gyattconvert [python file name]`
 
-This is **signficantly** diffrent from Gyatt 2, as Gyatt 3 supports automatic aliasing to your bash, zsh, or fish profile
+This is **signficantly** diffrent from City Boy 2, as City Boy 3 supports automatic aliasing to your bash, zsh, or fish profile
 
 ## new restaurant called karma 😊
 
 Q: what is going on with my strings?
-<br>A: In Gyatt 2, a change was made to uwu-ify all strings by default. Ex (`how are you?` -> `h-how awe yoyu?`). Although highly recommended, this feature can be turned off with the `--nouwu` or `-n` command-line arguments.
+<br>A: In City Boy 2, a change was made to uwu-ify all strings by default. Ex (`how are you?` -> `h-how awe yoyu?`). Although highly recommended, this feature can be turned off with the `--nouwu` or `-n` command-line arguments.
 
 ## angry comment 😡
 All comments in code are now banned (`# and '''`)
 
 ## 我遇到一個編譯器錯誤 😡🤬😠!!!
-In Gyatt, you can specify a file to which python code will compile to by using a positional argument like `gyatt code.gyt argh` (compiled code will be saved in `argh.py`)
+In City Boy, you can specify a file to which python code will compile to by using a positional argument like `gyatt code.gyt argh` (compiled code will be saved in `argh.py`)
 
 ## top dos scariest hoompscahres 😱
-The Gyatt Compiler requires you to end every line with either `tho` or `rn` for readability. However, be careful, as these are not interchangeable!! 
+The City Boy Compiler requires you to end every line with either `tho` or `rn` for readability. However, be careful, as these are not interchangeable!! 
 - `tho` is used as the colon(`:`) in Python (if, while, for, lambda, etc.)
 - `rn` is used to signify the end of the line
 
 ## segfault 😭
-gyatt3 has a russian roullete system where it has a 1/6 chance of segfaulting
+cityboy3 has a russian roullete system where it has a 1/6 chance of segfaulting
 
 ## memory usage 😡 💢 💢 
-gyatt3 initializes 16gb worth of data into memory for no reason 
+cityboy3 initializes 16gb worth of data into memory for no reason 
 
 
 ## Compatability
-### pookie bear 🥰, will my past Gyatt code work in Gyatt 3?
+### pookie bear 🥰, will my past City Boy code work in City Boy 3?
 no
 
 ### is there documentation on what changed
