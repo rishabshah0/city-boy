@@ -1,5 +1,5 @@
 # city boy, city boy
-City Boy (Gee-yacht) is the Python-based programming language of the future.
+City Boy is the Python-based programming language of the future.
 
 ## erm, what the sigma 🤓?
 Python, traditionally considered "easy" and "intuitive," uses too many archaic words like `print` and `math`. I wanted to fix this and keep Python in line with modern English.
